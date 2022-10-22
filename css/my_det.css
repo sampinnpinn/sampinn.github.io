@@ -1,0 +1,35 @@
+    .logo{
+		margin-top: 2%;
+	}
+	
+	.fweb:hover{
+		opacity: 100%;
+	}
+	.fweb{
+		opacity: 80%;
+	}
+	.con{
+		padding-right: 0px;
+		/*opacity: 90%;*/
+	}
+	.ans_name{
+		color: #ff9e0c;
+		font-size: 0.9rem;
+	}
+	.list-group-item{
+		cursor: pointer;
+		border-radius: 0.5rem !important;
+	}
+	.list-group-item+.list-group-item{
+		border-top-width: 1px;
+	}
+	.form-control{
+		border: 1px solid #ffc107;
+	}
+	.form-control:focus{
+		border-color: #ffc107;
+		box-shadow:0 0 0 0.3rem rgb(255 211 79 / 25%);
+	}
+	.alert{
+		padding: 0.5rem;
+	}
