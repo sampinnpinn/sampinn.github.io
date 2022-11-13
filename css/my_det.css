@@ -1,0 +1,45 @@
+    .logo{
+		padding-top: 1%;
+		padding-bottom: 1%;
+		background-color: #ffffff;
+	}
+	body{
+		background-color:#F0F1F5;
+	}
+	
+	.con{
+		padding-right: 0px;
+		
+		/*opacity: 90%;*/
+	}
+	.ans_name{
+		color: #ff9e0c;
+		font-size: 0.9rem;
+	}
+	.form-control{
+		border: 1px solid #ffc107;
+	}
+	.form-control:focus{
+		border-color: #ffc107;
+		box-shadow:0 0 0 0.3rem rgb(255 211 79 / 25%);
+	}
+	.talk{
+		background-color: #FFA600;
+    	color: #ffffff;
+    	border: none;
+    	padding: 0.8rem;
+    	font-size: 0.9rem;
+    	border-radius: 0.2rem;
+    	line-height: 1.5;
+    	text-align: center;
+    	vertical-align: middle;
+    	cursor: pointer;
+    	
+	}
+	.list-group-item-action:focus,
+    .list-group-item-action:hover {
+    	background-color: #ffffff;
+    }
+	.ansuser{
+		border-radius: 8rem;
+	}
