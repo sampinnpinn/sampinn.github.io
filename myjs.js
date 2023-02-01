@@ -71,7 +71,7 @@ $(document).ready(function () {
   })
   //c4d平台
   $('.c4d').click(function () {
-    window.open("qa.html");
+    window.open("https://support.qq.com/products/401131");
   })
   //红包封面
   $('.bag').click(function () {
